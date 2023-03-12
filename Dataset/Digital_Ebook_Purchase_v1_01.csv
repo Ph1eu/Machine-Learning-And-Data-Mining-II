@@ -1,0 +1,201 @@
+marketplace,customer_id,review_id,product_id,product_parent,product_title,product_category,star_rating,helpful_votes,total_votes,vine,verified_purchase,review_date
+US,50423635,R1LT38SAC0FA4G,B007J4T2G8,600633062,"Fifty Shades of Grey (Fifty Shades, Book 1)",Digital_Ebook_Purchase,1,18429.0,19368.0,N,N,2012-03-25
+US,39786950,R2HHBQETYNMKCX,B0052U59F4,600633062,Fifty Shades of Grey,Digital_Ebook_Purchase,1,7627.0,8192.0,N,Y,2012-03-06
+US,12439838,R31VD2FOG3JSQK,B00571F26Y,657488375,"Wheat Belly: Lose the Wheat, Lose the Weight, and Find Your Path Back to Health",Digital_Ebook_Purchase,5,6376.0,6517.0,N,Y,2011-09-02
+US,39785119,ROO6BOG4MMK4,B00BRUQ7ZY,401864376,Zealot: The Life and Times of Jesus of Nazareth,Digital_Ebook_Purchase,4,4730.0,4998.0,N,Y,2013-07-28
+US,41000507,RCWYARI7AGLFY,B00136D39U,785472998,Holy Bible: New American Standard Bible (NASB),Digital_Ebook_Purchase,1,2895.0,4163.0,N,N,2008-10-24
+US,34297840,R3CEF1AYQAKFFP,B000QCS8TW,268067011,"A Game of Thrones (A Song of Ice and Fire, Book 1)",Digital_Ebook_Purchase,2,3455.0,3699.0,N,Y,2011-04-13
+US,50781887,R1O3PU6GQXCIL2,B00555X8OA,366130389,"Thinking, Fast and Slow",Digital_Ebook_Purchase,1,3025.0,3378.0,N,N,2011-11-20
+US,15951256,R30YI8D3RGZOFK,B00ALYY6ZA,770497487,"The FastDiet - Revised & Updated: Lose Weight, Stay Healthy, and Live Longer with the Simple Secret of Intermittent Fasting",Digital_Ebook_Purchase,2,2743.0,2976.0,N,Y,2013-03-13
+US,35539438,R1OCQIE6SIT6I5,B007B5EDEG,268067011,"A Game of Thrones: The Story Continues Books 1-5: A Game of Thrones, A Clash of Kings, A Storm of Swords, A Feast for Crows, A Dance with Dragons (A Song of Ice and Fire)",Digital_Ebook_Purchase,3,2286.0,2518.0,N,N,2012-08-24
+US,14993984,R3U5QP4M5M1SAU,B005IGVS6Q,59010011,Unfinished Business (Silhouette Intimate Moments),Digital_Ebook_Purchase,5,2165.0,2233.0,N,Y,2011-10-30
+US,13213666,R1LBT9GRPJR4EF,B007P7HRS4,543673826,"Daring Greatly: How the Courage to Be Vulnerable Transforms the Way We Live, Love, Parent, and Lead",Digital_Ebook_Purchase,5,2155.0,2222.0,N,Y,2013-06-25
+US,45297729,R1EQ31MX8ECXH1,B0071XO8RA,721926847,Wool Omnibus Edition [Kindle in Motion] (Silo series Book 1),Digital_Ebook_Purchase,5,1910.0,2152.0,N,Y,2012-02-09
+US,23746712,R36J3BMBEEB1Q7,B007SGM084,600633062,Fifty Shades Trilogy Bundle: Fifty Shades of Grey; Fifty Shades Darker; Fifty Shades Freed,Digital_Ebook_Purchase,5,1946.0,2092.0,N,Y,2012-05-29
+US,35672680,R2SJ4STFVV2SQ7,B007SGM084,600633062,Fifty Shades Trilogy Bundle: Fifty Shades of Grey; Fifty Shades Darker; Fifty Shades Freed,Digital_Ebook_Purchase,2,1705.0,2058.0,N,N,2012-04-19
+US,14806764,R2NQVHBTYTM8VJ,B004FGMDOQ,333044434,Miss Peregrine's Home for Peculiar Children (Miss Peregrine's Peculiar Children Book 1),Digital_Ebook_Purchase,3,1829.0,1952.0,N,Y,2011-06-26
+US,51644164,R3HVWLJ8PPY7O2,B00BRUQ7ZY,401864376,Zealot: The Life and Times of Jesus of Nazareth,Digital_Ebook_Purchase,1,217.0,1936.0,N,N,2013-07-22
+US,40908341,R2V65BDO93RMR7,B0052U59F4,600633062,Fifty Shades of Grey,Digital_Ebook_Purchase,3,1552.0,1933.0,N,Y,2011-09-22
+US,20029077,R2YC85A17F7K9V,B007THA4FI,165338194,The Casual Vacancy,Digital_Ebook_Purchase,4,1773.0,1913.0,N,Y,2012-09-27
+US,21866124,RA313RWFY7ERR,B004HFRJCG,820763465,Smokin' Seventeen: A Stephanie Plum Novel,Digital_Ebook_Purchase,1,1821.0,1889.0,N,N,2011-07-02
+US,38074462,R1VAP69OQ8D07S,B004G5Z1HM,9315904,"NIV, Holy Bible, eBook",Digital_Ebook_Purchase,1,1383.0,1870.0,N,N,2011-11-28
+US,41950277,R1GCPDSE8AIOGY,B003ZSILSW,764540236,The Greek Seaman,Digital_Ebook_Purchase,2,1836.0,1848.0,N,N,2011-03-28
+US,36330299,R3N017DHGRL0TU,B008AK8FHM,635355086,Proof of Heaven: A Neurosurgeon's Journey into the Afterlife,Digital_Ebook_Purchase,5,1631.0,1826.0,N,Y,2012-10-23
+US,42087601,R33QBHBYHMMY0,B003WUYOQ6,258892233,Why We Get Fat: And What to Do About It,Digital_Ebook_Purchase,5,1707.0,1758.0,N,N,2011-11-04
+US,13647566,R2P17HISC3QXI2,B00BRUQ7ZY,401864376,Zealot: The Life and Times of Jesus of Nazareth,Digital_Ebook_Purchase,1,186.0,1708.0,N,N,2013-07-25
+US,49240213,RPVYF7LM2OIM5,B002Q6XUE4,553088469,Start with Why: How Great Leaders Inspire Everyone to Take Action,Digital_Ebook_Purchase,3,1610.0,1655.0,N,Y,2010-05-28
+US,19700274,R3AVRFV9P4KXXM,B004T4KQYS,571026639,The End of Illness,Digital_Ebook_Purchase,3,1496.0,1576.0,N,Y,2012-01-22
+US,45378171,R1323FK93APORJ,B0056JIT6C,510610660,Aftershock: Protect Yourself and Profit in the Next Global Financial Meltdown,Digital_Ebook_Purchase,3,1470.0,1562.0,N,Y,2011-08-24
+US,35807435,R2OBR64NZ5LIJ7,B00BRUQ7ZY,401864376,Zealot: The Life and Times of Jesus of Nazareth,Digital_Ebook_Purchase,4,1455.0,1562.0,N,Y,2013-07-29
+US,39912361,RKMO449VT48H3,B009IEXKXI,803172158,The Martian,Digital_Ebook_Purchase,4,1478.0,1556.0,N,Y,2013-01-26
+US,24953391,R3AJJCUXRFWEBZ,B008C20TDG,495389744,It Starts With Food: Discover the Whole30 and Change Your Life in Unexpected Ways,Digital_Ebook_Purchase,5,1491.0,1548.0,N,Y,2013-06-20
+US,16951527,R1QDH9VUGYM74,B007X49B9C,159053365,The Amateur,Digital_Ebook_Purchase,4,1338.0,1529.0,N,Y,2012-05-22
+US,52149957,R1IBOEBJUS3V5U,B00BRUQ7ZY,401864376,Zealot: The Life and Times of Jesus of Nazareth,Digital_Ebook_Purchase,1,151.0,1528.0,N,N,2013-07-20
+US,46365426,R12716MZNB1HP3,B007GFD1WG,554175285,Extinction Point - Book One,Digital_Ebook_Purchase,1,1421.0,1499.0,N,N,2013-04-29
+US,52362855,R1MPTE29MO8JWK,B00ALYY6ZA,770497487,"The FastDiet - Revised & Updated: Lose Weight, Stay Healthy, and Live Longer with the Simple Secret of Intermittent Fasting",Digital_Ebook_Purchase,5,1432.0,1491.0,N,Y,2013-02-27
+US,49505794,R28VM3LJ0BVI3D,B007HB8EYY,727420488,"The MELT Method: A Breakthrough Self-Treatment System to Eliminate Chronic Pain, Erase the Signs of Aging, and Feel Fantastic in Just 10 Minutes a Day!",Digital_Ebook_Purchase,4,1432.0,1466.0,N,Y,2013-02-18
+US,47803054,R1TKWIHAN31XTZ,B005CRQ4XI,576844294,Wild (Oprah's Book Club 2.0 Digital Edition): From Lost to Found on the Pacific Crest Trail,Digital_Ebook_Purchase,3,1367.0,1451.0,N,Y,2012-06-03
+US,41557798,R2JCBRMZZZVDV8,B000JMLNHI,764125534,Fairy Tales Every Child Should Know,Digital_Ebook_Purchase,3,1426.0,1445.0,N,Y,2009-03-31
+US,36999490,R1TPQGXR3JM97A,B008UCJ7KO,665387440,"Entwined with You (Crossfire, Book 3)",Digital_Ebook_Purchase,1,1268.0,1421.0,N,N,2013-06-04
+US,50483023,R3P03OB1P7RGLX,B004G5Z1HM,9315904,"NIV, Holy Bible, eBook",Digital_Ebook_Purchase,4,1278.0,1360.0,N,Y,2011-02-23
+US,21238591,R1TKRC9TJ9Y3RY,B007SGM084,600633062,Fifty Shades Trilogy Bundle: Fifty Shades of Grey; Fifty Shades Darker; Fifty Shades Freed,Digital_Ebook_Purchase,2,1112.0,1351.0,N,N,2012-04-21
+US,13544903,R3T26675Q5YOIX,B0072NZZGM,512918432,Deadlocked (Sookie Stackhouse Book 12),Digital_Ebook_Purchase,1,1250.0,1345.0,N,Y,2012-05-06
+US,31003720,R1Y3SMDNYLUQJG,B00475AYJQ,805134500,"The Wise Man's Fear (The Kingkiller Chronicle, Book 2)",Digital_Ebook_Purchase,3,1175.0,1341.0,N,N,2011-03-07
+US,10667774,R3245OHOGS8RB7,B0092MPU7U,939756325,"The Virgin Diet: Drop 7 Foods, Lose 7 Pounds, Just 7 Days",Digital_Ebook_Purchase,1,1217.0,1333.0,N,N,2013-04-16
+US,23401780,R3LGFAXRKXHU3W,B0038KA6GC,246105409,To Train Up a Child: Turning the hearts of the fathers to the children,Digital_Ebook_Purchase,1,1126.0,1325.0,N,N,2013-04-24
+US,52785993,R2G831DJK4COGI,B009CGYO0K,117321926,How to Tell If Your Cat Is Plotting to Kill You (The Oatmeal),Digital_Ebook_Purchase,5,1262.0,1309.0,N,Y,2012-10-10
+US,19348188,R1B8Z78LL13VOI,B0051PRFLQ,541835185,The Mill River Recluse,Digital_Ebook_Purchase,5,1216.0,1305.0,N,N,2011-07-06
+US,47827338,R199KDMTC7EQCO,B0086BX8UE,17285204,Love Yourself Like Your Life Depends On It,Digital_Ebook_Purchase,5,1234.0,1301.0,N,Y,2012-06-19
+US,48643754,R3SRNLDN9RKRES,B003P9XMFI,308504024,The Hangman's Daughter (A Hangman's Daughter Tale Book 1),Digital_Ebook_Purchase,3,1233.0,1301.0,N,Y,2010-12-27
+US,46207834,R3G51YFJ29PZ79,B0036S4C6G,582342907,A Visit from the Goon Squad,Digital_Ebook_Purchase,4,1191.0,1297.0,N,Y,2010-10-25
+US,50979256,R2YCCIMTZ9KC5L,B005CRQ4XI,576844294,Wild (Oprah's Book Club 2.0 Digital Edition): From Lost to Found on the Pacific Crest Trail,Digital_Ebook_Purchase,3,1136.0,1259.0,N,Y,2012-08-09
+US,16824900,R3QSR9X1FJA8A9,B005Z57E18,679377355,The Rise and Fall of the Third Reich,Digital_Ebook_Purchase,1,1135.0,1242.0,N,Y,2012-04-05
+US,52625876,RDSQ829IZLKOO,B0015DPX7G,972021173,The Story of Edgar Sawtelle: A Novel (P.S.),Digital_Ebook_Purchase,2,1112.0,1237.0,N,N,2008-07-21
+US,49293101,R35IELAT6MZF6H,B003YL4LYI,586496321,"A Dance with Dragons (A Song of Ice and Fire, Book 5)",Digital_Ebook_Purchase,3,1092.0,1216.0,N,Y,2011-07-13
+US,37033090,R29V2OHOAUDD7Y,B00C2WDD5I,349611492,"The Atlantis Gene: A Thriller (The Origin Mystery, Book 1)",Digital_Ebook_Purchase,1,1020.0,1186.0,N,Y,2013-07-15
+US,49688162,R203K014Z2HHOF,B0071XO8RA,721926847,Wool Omnibus Edition [Kindle in Motion] (Silo series Book 1),Digital_Ebook_Purchase,5,1053.0,1185.0,N,Y,2012-05-01
+US,39505615,R1V0QXYRYYH3OO,B004XWPWPE,136038581,Sentence of Marriage (Promises to Keep Book 1),Digital_Ebook_Purchase,2,1131.0,1173.0,N,Y,2011-05-17
+US,30354686,R2Y5859PBAXO9B,B009NY43NY,278368308,Dead Ever After (Sookie Stackhouse Book 13),Digital_Ebook_Purchase,1,1073.0,1172.0,N,Y,2013-05-16
+US,52084257,R3DM0IM2DN143Y,B002B3YBZO,912106617,Invisible (Ivy Malone Mystery Series #1),Digital_Ebook_Purchase,3,1054.0,1165.0,N,Y,2010-11-11
+US,45513183,R3O1U6SJ6GS6HI,B008MG1E4A,807639170,No Easy Day: The Firsthand Account of the Mission that Killed Osama Bin Laden,Digital_Ebook_Purchase,1,688.0,1164.0,N,Y,2012-09-04
+US,46955899,RNKYCLACDDTZZ,B0052U59F4,600633062,Fifty Shades of Grey,Digital_Ebook_Purchase,1,1075.0,1163.0,N,N,2012-03-09
+US,51983670,R2PTCGILEICNC5,B009CGYO0K,117321926,How to Tell If Your Cat Is Plotting to Kill You (The Oatmeal),Digital_Ebook_Purchase,5,1065.0,1162.0,N,N,2012-10-09
+US,21052688,R3S8LCO1ZNEORK,B004PGO25O,972822982,Do the Work,Digital_Ebook_Purchase,2,986.0,1161.0,N,N,2011-05-08
+US,51645455,R3CCL94ASE8M6J,B005I4JG80,174302266,Bringing Up Bébé: One American Mother Discovers the Wisdom of French Parenting,Digital_Ebook_Purchase,4,1077.0,1115.0,N,Y,2012-02-08
+US,11144378,RUMQ7ZGZABC7K,B004MME5IK,117158678,The 17 Day Diet: A Doctor's Plan Designed for Rapid Results,Digital_Ebook_Purchase,4,1060.0,1098.0,N,Y,2011-07-08
+US,16020843,R2MRH43NTJP7SV,B008J2AJPW,351702064,What is Amazon Prime?: The Complete Guide to the Amazon Prime Membership,Digital_Ebook_Purchase,1,1027.0,1098.0,N,N,2012-08-14
+US,36247366,R2HOYH93LUE4Z0,B00136D39U,785472998,Holy Bible: New American Standard Bible (NASB),Digital_Ebook_Purchase,5,1053.0,1087.0,N,Y,2008-02-12
+US,52925509,R2OEXXKOGOQHRA,B005GSZZ24,934406843,The Charisma Myth: How Anyone Can Master the Art and Science of Personal Magnetism,Digital_Ebook_Purchase,5,1061.0,1086.0,N,Y,2012-05-16
+US,52876492,RE1WGXXVSONQG,B0056BMK6K,804915535,How I Sold 1 Million eBooks in 5 Months!,Digital_Ebook_Purchase,1,1005.0,1085.0,N,Y,2011-07-20
+US,50633736,R35GFCA6RFP8KJ,B007J4T2G8,600633062,"Fifty Shades of Grey (Fifty Shades, Book 1)",Digital_Ebook_Purchase,1,995.0,1071.0,N,N,2012-06-12
+US,52889177,R212WL2KHOWVNG,B004U7G7AQ,946561538,Paula Deen's Southern Cooking Bible: The New Classic Guide to Delicious Dishes with More Than 300 Recipes,Digital_Ebook_Purchase,5,917.0,1070.0,N,Y,2013-06-25
+US,52010692,R1Y0VXHDRYTTVI,B005NJ2T1G,624914727,Mindfulness: An Eight-Week Plan for Finding Peace in a Frantic World,Digital_Ebook_Purchase,5,1034.0,1057.0,N,Y,2011-12-14
+US,52647004,R3I0UI2JYYK7TF,B007X49B9C,159053365,The Amateur,Digital_Ebook_Purchase,5,909.0,1055.0,N,N,2012-05-20
+US,50035037,R2X80Y9JHWXQRU,B007Q2N0HA,119148606,Bared to You: A Crossfire Novel,Digital_Ebook_Purchase,3,971.0,1052.0,N,Y,2012-05-23
+US,18416270,R3QG6SISM5IL8H,B00C2WDD5I,349611492,"The Atlantis Gene: A Thriller (The Origin Mystery, Book 1)",Digital_Ebook_Purchase,4,965.0,1022.0,N,N,2013-06-28
+US,45434137,R2V1L3FK4AOOZ,B006ZBRMOU,600633062,Fifty Shades Freed (Fifty Shades Trilogy Book 3),Digital_Ebook_Purchase,5,845.0,1022.0,N,N,2012-01-19
+US,52925336,R19WAYHR3JFQYV,B003R0LBVW,415740513,Freedom: A Novel (Oprah's Book Club),Digital_Ebook_Purchase,4,876.0,1019.0,N,N,2010-08-31
+US,52167420,RC22UB9XV9ARF,B0038NN3B4,973428825,The New Atkins for a New You: The Ultimate Diet for Shedding Weight and Feeling Great,Digital_Ebook_Purchase,5,965.0,1003.0,N,Y,2011-04-26
+US,38141193,R2LF459H1WHUKB,B00AW57L96,400840444,The Husband's Secret,Digital_Ebook_Purchase,5,874.0,990.0,N,N,2013-04-04
+US,38141193,R3USGOBKE0P4R8,B00B0X4PIO,536757221,And the Mountains Echoed,Digital_Ebook_Purchase,5,909.0,989.0,N,N,2013-05-21
+US,52767076,R1K1W23L46XC98,B0047Y17P2,870842058,The Fifth Witness (Mickey Haller Book 4),Digital_Ebook_Purchase,1,659.0,985.0,N,N,2011-04-05
+US,24089535,R3OK4ZJSJUXOK1,B000JMLNHI,764125534,Fairy Tales Every Child Should Know,Digital_Ebook_Purchase,4,971.0,983.0,N,Y,2010-08-13
+US,37540463,R3ILIZEYSSS0KS,B00AMYGFXK,491285512,Captive Audience,Digital_Ebook_Purchase,1,21.0,981.0,N,Y,2013-01-09
+US,46625215,R2KZ0LJY7E9XA4,B008UCJ7KO,665387440,"Entwined with You (Crossfire, Book 3)",Digital_Ebook_Purchase,1,861.0,977.0,N,Y,2013-06-05
+US,44441739,R38W3RG369V80X,B008XOJ7C2,985390949,Beyond Belief: My Secret Life Inside Scientology and My Harrowing Escape,Digital_Ebook_Purchase,5,938.0,976.0,N,Y,2013-02-05
+US,52382953,R1TC15NPCF9GMW,B009IEXKXI,803172158,The Martian,Digital_Ebook_Purchase,5,888.0,975.0,N,Y,2012-10-24
+US,38684082,R1J68H55X6FAKT,B003YL4LYI,586496321,"A Dance with Dragons (A Song of Ice and Fire, Book 5)",Digital_Ebook_Purchase,2,892.0,971.0,N,Y,2011-07-21
+US,23699015,R346O8LOTG9GR5,B0036S4B6M,104360987,Orange Is the New Black: My Year in a Women's Prison,Digital_Ebook_Purchase,2,788.0,961.0,N,Y,2013-07-30
+US,46817543,R1G0M1AVIZ4P9B,B002BDVUGM,990562269,"Glenn Beck's Common Sense: The Case Against an Out-of-Control Government, Inspired by Thomas Paine",Digital_Ebook_Purchase,5,590.0,948.0,N,N,2009-06-16
+US,39786950,R1Y25G5VL947GN,B007IXWKUK,600633062,"Fifty Shades Darker (Fifty Shades, Book 2)",Digital_Ebook_Purchase,1,820.0,945.0,N,Y,2012-03-15
+US,13527218,RE9COBT7FKDC1,B0049U4CF6,376382084,The Pedophile's Guide to Love and Pleasure,Digital_Ebook_Purchase,1,794.0,935.0,N,N,2010-11-10
+US,32849154,R1770L8U0BTIO8,B003YL4LYI,586496321,"A Dance with Dragons (A Song of Ice and Fire, Book 5)",Digital_Ebook_Purchase,5,761.0,934.0,N,Y,2011-07-29
+US,45426527,R3CJ1QV58LKU35,B004ULORYU,604555307,Killing Lincoln: The Shocking Assassination that Changed America Forever (Bill O'Reilly's Killing Series),Digital_Ebook_Purchase,5,702.0,929.0,N,Y,2012-02-12
+US,26412116,R2NCWO210IWBXK,B001EOCFU4,801998958,"The Holy Bible, English Standard Version (with Cross-References)",Digital_Ebook_Purchase,1,571.0,922.0,N,N,2011-01-17
+US,53029293,R2IXZFIU80063U,B001GSTOAM,931765451,Clean Code: A Handbook of Agile Software Craftsmanship (Robert C. Martin Series),Digital_Ebook_Purchase,1,834.0,922.0,N,Y,2009-05-22
+US,10663345,R2T93I4VEDEBDA,B009Y8S65U,770702200,"A Christian Rebuttal to Dr. Eben Alexander's Proof of Heaven, A Neurosurgeon's Journey into the Afterlife",Digital_Ebook_Purchase,1,854.0,907.0,N,N,2012-11-06
+US,50226098,RMYBFCE55AAQM,B007SGM084,600633062,Fifty Shades Trilogy Bundle: Fifty Shades of Grey; Fifty Shades Darker; Fifty Shades Freed,Digital_Ebook_Purchase,1,733.0,906.0,N,N,2012-04-23
+US,11186435,R2YEW8JIJJLB3E,B008J2AJPW,351702064,What is Amazon Prime?: The Complete Guide to the Amazon Prime Membership,Digital_Ebook_Purchase,5,842.0,902.0,N,N,2012-08-06
+US,52941456,R3K4UP9GG4UX11,B0072N4U6S,624896162,The Hockey Stick and the Climate Wars: Dispatches from the Front Lines,Digital_Ebook_Purchase,5,681.0,897.0,N,Y,2012-02-11
+US,17187433,RMVRD9CCO4TBS,B007IXWKUK,600633062,"Fifty Shades Darker (Fifty Shades, Book 2)",Digital_Ebook_Purchase,1,762.0,897.0,N,Y,2012-04-26
+US,52749015,R3R2RMIMUMM8SU,B004M18ZI2,167797192,War Brides,Digital_Ebook_Purchase,5,860.0,896.0,N,Y,2011-06-17
+US,50974273,RIGYXCWJO7EXO,B00AEDDSZW,655583630,The Silent Wife: A Novel,Digital_Ebook_Purchase,5,841.0,889.0,N,Y,2013-06-25
+US,26684937,RWS7JDX1CML79,B002MQYOFW,245449872,"The Hunger Games (Hunger Games Trilogy, Book 1)",Digital_Ebook_Purchase,3,677.0,853.0,N,Y,2012-01-13
+US,24204285,RACF5EUDDH0M1,B00AXIZ4TQ,835419183,Inferno: A Novel (Robert Langdon Book 4),Digital_Ebook_Purchase,2,710.0,846.0,N,N,2013-05-15
+US,42293610,R2EQCR26NZ6RL,B0072JJTIG,343748434,Don't Know Jack (The Hunt for Jack Reacher Series Book 1),Digital_Ebook_Purchase,1,787.0,846.0,N,Y,2012-02-22
+US,47678932,R1B05WVMUGAY9I,B005BVM9YI,223407615,The Forever War,Digital_Ebook_Purchase,2,792.0,838.0,N,Y,2012-03-15
+US,33429335,R25AK2PY7HL0HF,B004KKY782,219081859,The Color of Heaven (The Color of Heaven Series Book 1),Digital_Ebook_Purchase,1,762.0,833.0,N,N,2011-03-07
+US,11474030,RLZUZ2EIQ6ORN,B0052VUNHC,748869868,Beautiful Disaster,Digital_Ebook_Purchase,1,631.0,822.0,N,Y,2011-10-24
+US,52669029,RWPE5WXZ4WXX6,B0049U4RJM,808416435,The Questions Christians Hope No One Will Ask,Digital_Ebook_Purchase,1,475.0,815.0,N,Y,2010-11-11
+US,27759746,R1Q8VV42RFW1N5,B003GY0K2K,453872556,St. Barts Breakdown: A Mick Sever Mystery (Primal Blueprint Series),Digital_Ebook_Purchase,3,763.0,815.0,N,Y,2011-02-06
+US,44739574,RP5JJWUS57S11,B008J2AJPW,351702064,What is Amazon Prime?: The Complete Guide to the Amazon Prime Membership,Digital_Ebook_Purchase,1,759.0,813.0,N,N,2012-08-27
+US,16891568,RK4GKQKG3YSW9,B001CDZZI6,10670133,StrengthsFinder 2.0,Digital_Ebook_Purchase,1,652.0,807.0,N,Y,2012-08-28
+US,41528575,R1W330PGI5P4B6,B009NY43NY,278368308,Dead Ever After (Sookie Stackhouse Book 13),Digital_Ebook_Purchase,1,693.0,800.0,N,N,2013-05-09
+US,24666664,RRX9QOOPBRTNR,B007GFD1WG,554175285,Extinction Point - Book One,Digital_Ebook_Purchase,2,752.0,798.0,N,Y,2012-04-17
+US,29144086,R1RP8V14ISCME9,B00BRUQ7ZY,401864376,Zealot: The Life and Times of Jesus of Nazareth,Digital_Ebook_Purchase,1,47.0,795.0,N,Y,2013-07-19
+US,16544701,R4ZL3E7R43RD5,B00B53IW9W,239477982,Guns (Kindle Single),Digital_Ebook_Purchase,2,637.0,794.0,N,N,2013-02-02
+US,27791761,R2CO3XKWW0E8U6,B004XFYI7E,817728692,Time of Death (In Death),Digital_Ebook_Purchase,1,777.0,792.0,N,Y,2011-06-28
+US,49987354,R2HH818K1GJ26O,B004JN1D2I,134579525,"A Game of Thrones 4-Book Bundle: A Song of Ice and Fire Series: A Game of Thrones, A Clash of Kings, A Storm of Swords, and A Feast for Crows",Digital_Ebook_Purchase,5,732.0,792.0,N,Y,2011-03-24
+US,15035839,R1WLOOGPG9JBMP,B0067TGSOK,401451117,"The $100 Startup: Reinvent the Way You Make a Living, Do What You Love, and Create a New Future",Digital_Ebook_Purchase,3,739.0,790.0,N,Y,2012-08-09
+US,27304994,R3KUO95PIBJXD3,B00D01TYQ2,189382634,It Starts With Food CookBook: The Low Sugar Gluten-Free & Whole Food CookBook - 40 Delicious & Healthy Recipes Your Family Will Love,Digital_Ebook_Purchase,1,783.0,788.0,N,N,2013-06-12
+US,23801724,R2NXJR245QOWA6,B000FC2L1O,983256815,"Outlander: A Novel (Outlander, Book 1)",Digital_Ebook_Purchase,1,646.0,781.0,N,Y,2010-11-08
+US,51659432,R2EV0LMAT0DAD4,B0071XO8RA,721926847,Wool Omnibus Edition [Kindle in Motion] (Silo series Book 1),Digital_Ebook_Purchase,5,666.0,775.0,N,Y,2012-02-11
+US,50682072,R1D4Q6GIT4QPXF,B005ZOBNOI,582629146,The Fault in Our Stars,Digital_Ebook_Purchase,2,631.0,772.0,N,Y,2012-04-26
+US,47879560,R22B7K1DUJR6ZN,B007TK77QE,165338194,The Casual Vacancy,Digital_Ebook_Purchase,1,57.0,770.0,N,N,2012-09-27
+US,50325200,R1N8EHQMMUV23G,B004M18ZI2,167797192,War Brides,Digital_Ebook_Purchase,4,739.0,769.0,N,Y,2011-10-29
+US,51161182,R22O307L5M27H7,B004YDSL9Q,751114903,"The One You Love (Emma Holden Suspense Mystery Trilogy, Book 1)",Digital_Ebook_Purchase,3,731.0,767.0,N,Y,2011-07-16
+US,15746739,REIJAWCF6QCYW,B005IYEQKI,920432311,The Harbinger: The Ancient Mystery that Holds the Secret of America's Future,Digital_Ebook_Purchase,5,633.0,761.0,N,N,2011-11-07
+US,15857938,RM1WDHYVKSDP0,B003ZSILSW,764540236,The Greek Seaman,Digital_Ebook_Purchase,1,724.0,750.0,N,N,2011-03-28
+US,43925047,R2HZ7O57R0XJUI,B00C2WDD5I,349611492,"The Atlantis Gene: A Thriller (The Origin Mystery, Book 1)",Digital_Ebook_Purchase,5,677.0,745.0,N,Y,2013-06-04
+US,49361229,R31LW1MMWDP2AQ,B007ZXK08C,93816562,Gone Girl,Digital_Ebook_Purchase,4,648.0,742.0,N,N,2013-08-25
+US,49622380,R3QYDS4W0BZ84P,B0072N4U6S,624896162,The Hockey Stick and the Climate Wars: Dispatches from the Front Lines,Digital_Ebook_Purchase,1,254.0,742.0,N,N,2012-02-08
+US,53075086,R3RDNZNCOMRN0K,B009IEXKXI,803172158,The Martian,Digital_Ebook_Purchase,5,683.0,739.0,N,Y,2013-01-08
+US,51688217,R3GZFEAZ3EC5J0,B008J2AJPW,351702064,What is Amazon Prime?: The Complete Guide to the Amazon Prime Membership,Digital_Ebook_Purchase,2,711.0,738.0,N,N,2012-12-12
+US,48730344,R3L0JTVDBWY4ME,B002KQ6BT6,17146931,The Lost Symbol: Featuring Robert Langdon,Digital_Ebook_Purchase,2,645.0,731.0,N,N,2009-09-23
+US,48674052,R1K7WMQ8HWW1EE,B0072N4U6S,624896162,The Hockey Stick and the Climate Wars: Dispatches from the Front Lines,Digital_Ebook_Purchase,1,221.0,728.0,N,N,2012-02-08
+US,31261857,R1SS8NVB0V1Y42,B004DI7HZ6,865023266,"A Discovery of Witches: A Novel (All Souls Trilogy, Book 1)",Digital_Ebook_Purchase,1,606.0,727.0,N,Y,2011-03-01
+US,17704727,R1O2SJGCZMJE6D,B004HB1W82,533322027,30 Pieces of Silver: An Extremely Controversial Historical Thriller (The Betrayed Series Book 1),Digital_Ebook_Purchase,3,659.0,725.0,N,N,2011-07-14
+US,39561999,R1NVTP5HP507FD,B005BUG6T8,696646971,Drift: The Unmooring of American Military Power,Digital_Ebook_Purchase,1,55.0,724.0,N,N,2012-04-01
+US,33384675,R1IUBVT546RWDG,B001EOCFU4,801998958,"The Holy Bible, English Standard Version (with Cross-References)",Digital_Ebook_Purchase,5,678.0,722.0,N,N,2009-03-09
+US,52562689,R2VFOSK9QK4YEA,B000JMLBT8,955136519,The Legends of King Arthur and His Knights,Digital_Ebook_Purchase,1,669.0,721.0,N,Y,2009-10-14
+US,16528317,R3Q2DO1G0OZ17I,B00AHP5NY6,821660286,"Oh Myyy! - There Goes The Internet (Life, the Internet and Everything Book 1)",Digital_Ebook_Purchase,1,22.0,720.0,N,N,2012-12-05
+US,48808468,R3UV8Z35QYU9Y2,B00AA20E5Y,178002349,The Cuckoo's Calling (Cormoran Strike Book 1),Digital_Ebook_Purchase,4,624.0,717.0,N,Y,2013-06-24
+US,47028474,RR8PIRYKRJ13U,B007SGM084,600633062,Fifty Shades Trilogy Bundle: Fifty Shades of Grey; Fifty Shades Darker; Fifty Shades Freed,Digital_Ebook_Purchase,5,615.0,716.0,N,N,2012-04-19
+US,44272622,R3CMWB54L5GF4D,B007AW2CLG,900268335,Vaccine Illusion,Digital_Ebook_Purchase,1,537.0,714.0,N,Y,2013-02-22
+US,49999268,R3A5H5BBCR6MJM,B0052REUW0,249137786,The Better Angels of Our Nature: Why Violence Has Declined,Digital_Ebook_Purchase,5,647.0,714.0,N,Y,2011-10-05
+US,52562689,R2QR4YC75NFR6N,B000JMLMXI,119696620,The Autobiography of Benjamin Franklin,Digital_Ebook_Purchase,5,698.0,710.0,N,Y,2009-09-25
+US,10080527,RUWNLQC0SXN3O,B009UFDYV8,128869613,This Man (This Man Trilogy Book 1),Digital_Ebook_Purchase,2,596.0,709.0,N,Y,2012-11-23
+US,24594282,R32CBJHQQAJGWT,B00BJDUBLU,452084790,"After The Ending (The Ending Series, #1)",Digital_Ebook_Purchase,1,684.0,706.0,N,N,2013-04-28
+US,10099225,RJ6COIVGUA7YI,B004ZZS4CC,559187375,A Stolen Life: A Memoir,Digital_Ebook_Purchase,5,678.0,704.0,N,Y,2011-07-12
+US,35086594,R2GOZ02JQB3M1P,B005ZSIGEO,298508114,Natural Hospital Birth: The Best of Both Worlds,Digital_Ebook_Purchase,2,642.0,703.0,N,Y,2012-01-05
+US,13104664,RQHV4QTYKGUY8,B008THOQVA,374930313,Practical Paleo: A Customized Approach to Health and a Whole-Foods Lifestyle,Digital_Ebook_Purchase,3,627.0,702.0,N,Y,2012-09-06
+US,27912702,R1PMWDX6YC4YE9,B004YDSL9Q,751114903,"The One You Love (Emma Holden Suspense Mystery Trilogy, Book 1)",Digital_Ebook_Purchase,1,617.0,699.0,N,Y,2011-08-02
+US,31004567,RAA9KTR93FS9N,B00C4CSJCI,39067970,"Surrender (Surrender, Book 1)",Digital_Ebook_Purchase,1,649.0,694.0,N,Y,2013-05-12
+US,39090310,R2IQ5CZSRIYH2T,B004XHVOW4,161076644,"Three Cups of Deceit: How Greg Mortenson, Humanitarian Hero, Lost His Way (Kindle Single)",Digital_Ebook_Purchase,5,625.0,694.0,N,N,2011-04-21
+US,52921930,R3G4SLPDE91NUP,B000FC2KBU,9315904,Holy Bible (NIV) (New International Version),Digital_Ebook_Purchase,5,673.0,691.0,N,Y,2008-01-09
+US,13161265,R1A6M7CR3R0PR1,B00ANI9GIQ,452744409,The Unwinding: An Inner History of the New America,Digital_Ebook_Purchase,4,657.0,685.0,N,Y,2013-05-23
+US,45434137,REECR72UPDJRC,B009N539DS,682675379,Undeniable,Digital_Ebook_Purchase,1,567.0,674.0,N,N,2012-10-31
+US,43826127,R19ZA0Z7IYERLO,B004XJIWAE,582621791,Against All Enemies (A Campus Novel),Digital_Ebook_Purchase,2,629.0,673.0,N,Y,2011-06-15
+US,25276769,R176Z67JGDVSIQ,B00571F26Y,657488375,"Wheat Belly: Lose the Wheat, Lose the Weight, and Find Your Path Back to Health",Digital_Ebook_Purchase,1,501.0,671.0,N,Y,2011-10-30
+US,16294474,R2AJBP7W4QOT3L,B004D9FUA4,608557778,Know Your Bible: All 66 Books Explained and Applied (Value Books),Digital_Ebook_Purchase,5,643.0,670.0,N,N,2012-01-13
+US,53038649,R125SJNPYZU9ZE,B00AHP5NY6,821660286,"Oh Myyy! - There Goes The Internet (Life, the Internet and Everything Book 1)",Digital_Ebook_Purchase,5,659.0,669.0,N,N,2012-12-05
+US,35649529,R2XNQGUAREB4YU,B00256Z3CM,229252094,"Kindle Shortcuts, Hidden Features, Kindle-Friendly Websites, Free eBooks &amp; Email From Kindle: Concise User Guide for Kindle (incl 3d gen), DX, iPhone &amp; iPad (Mobi Manuals)",Digital_Ebook_Purchase,5,650.0,666.0,N,Y,2009-10-29
+US,52113050,R3MXT0Z745LW7F,B0072N4U6S,624896162,The Hockey Stick and the Climate Wars: Dispatches from the Front Lines,Digital_Ebook_Purchase,1,140.0,661.0,N,N,2012-02-08
+US,37097876,R2Z9NJVEA0L1D1,B0072N4U6S,624896162,The Hockey Stick and the Climate Wars: Dispatches from the Front Lines,Digital_Ebook_Purchase,1,339.0,658.0,N,Y,2012-03-12
+US,28833525,R2OHHGGJ7CAJ1X,B00BRUQ7ZY,401864376,Zealot: The Life and Times of Jesus of Nazareth,Digital_Ebook_Purchase,1,39.0,655.0,N,N,2013-07-25
+US,37872510,RCOT5HMS4UOJE,B002RKR4A0,496314846,Forbidden books of the original New Testament,Digital_Ebook_Purchase,3,631.0,653.0,N,Y,2010-12-10
+US,22885763,RCCHEQRKIKK07,B009GULWLG,367137608,Paleo for Beginners: Essentials to Get Started,Digital_Ebook_Purchase,5,619.0,652.0,N,N,2012-09-27
+US,24900594,R1Y1FLABWHHLMD,B007IXWL2C,600633062,"Fifty Shades Freed (Fifty Shades, Book 3)",Digital_Ebook_Purchase,1,548.0,652.0,N,N,2012-07-10
+US,35633202,R12GEXYFXE59SQ,B005IGVS6Q,59010011,Unfinished Business (Silhouette Intimate Moments),Digital_Ebook_Purchase,3,621.0,649.0,N,N,2011-11-11
+US,41975013,R1N29VSTPFJ3W9,B000JQU1VS,433082915,The Adventures of Sherlock Holmes,Digital_Ebook_Purchase,5,619.0,648.0,N,N,2009-03-22
+US,23550390,R2SNUO61JL1T6V,B003YUC3YE,500073209,"Full Dark, No Stars",Digital_Ebook_Purchase,5,580.0,647.0,N,Y,2010-11-10
+US,51329379,R1RS8C76JXDFTC,B005GSZZ7E,957409843,I Love You But I Don't Trust You: The Complete Guide to Restoring Trust in Your Relationship,Digital_Ebook_Purchase,1,610.0,646.0,N,N,2013-01-07
+US,50398589,R31XB8NE7ENV8T,B009UVCYLS,854175828,Beautiful Bastard (The Beautiful Series Book 1),Digital_Ebook_Purchase,1,528.0,643.0,N,N,2013-02-13
+US,49684960,RUUJLBO3Y65BR,B00AKKS278,573107044,The Miracle Morning: The Not-So-Obvious Secret Guaranteed to Transform Your Life (Before 8AM),Digital_Ebook_Purchase,1,477.0,642.0,N,Y,2012-12-27
+US,35205296,R1OT5CNWCSD2YG,B003U2TWQ8,609317946,One Thousand Gifts: A Dare to Live Fully Right Where You Are,Digital_Ebook_Purchase,5,557.0,642.0,N,Y,2010-12-14
+US,13273277,R1N964SRL38IBJ,B00AGFU5VS,841035344,"APE: Author, Publisher, Entrepreneur—How to Publish a Book",Digital_Ebook_Purchase,3,627.0,639.0,N,Y,2013-03-18
+US,26281084,RH6SAD8F26993,B007GCYBOG,914266003,Iced: Fever Series Book 6,Digital_Ebook_Purchase,3,586.0,639.0,N,Y,2012-11-02
+US,48245591,R3SELH6XTBWORT,B004ZMSHH2,820806834,Odyssey One,Digital_Ebook_Purchase,1,536.0,638.0,N,Y,2011-08-18
+US,20712096,RPXTZ763NUL4Y,B00338QEME,37144013,"Change Your Brain, Change Your Body: Use Your Brain to Get and Keep the Body You Have Always Wanted",Digital_Ebook_Purchase,1,593.0,638.0,N,Y,2010-04-06
+US,42181745,R25IL8TXVAZ8MK,B0072N4U6S,624896162,The Hockey Stick and the Climate Wars: Dispatches from the Front Lines,Digital_Ebook_Purchase,1,136.0,634.0,N,N,2012-02-08
+US,14095769,R2JU8ISI5DB8TI,B003JTHXOK,630820109,Safe Haven,Digital_Ebook_Purchase,5,596.0,630.0,N,Y,2010-09-16
+US,44985865,RR0M19YEB1BQ1,B00BRUQ7ZY,401864376,Zealot: The Life and Times of Jesus of Nazareth,Digital_Ebook_Purchase,1,19.0,628.0,N,N,2013-07-27
+US,16092135,R2JTEL8AUAT1VB,B00AXTO3WY,267098072,The Arrangement (The Ferro Family) (The Arrangement:Ferro Family Book 1),Digital_Ebook_Purchase,3,534.0,628.0,N,N,2013-02-25
+US,49361229,R2C4MWWUZM30FO,B00B1AHNVC,835419183,Inferno: (Robert Langdon Book 4),Digital_Ebook_Purchase,4,554.0,627.0,N,N,2013-05-31
+US,34341324,R26EOMM7SCVUMQ,B004IK8Q8Q,756348866,Demonic: How the Liberal Mob Is Endangering America,Digital_Ebook_Purchase,5,479.0,623.0,N,Y,2011-06-07
+US,51941990,RJIOOMXMGBA6S,B000JQU1YK,671281345,Letters of a Woman Homesteader,Digital_Ebook_Purchase,4,620.0,623.0,N,Y,2010-01-03
+US,51725920,R1ZABOBDXWBKG1,B00BRUQ7ZY,401864376,Zealot: The Life and Times of Jesus of Nazareth,Digital_Ebook_Purchase,1,36.0,621.0,N,Y,2013-07-18
+US,41229335,RSW9EVX02GSO0,B007SGLZP8,273127372,The Racketeer,Digital_Ebook_Purchase,3,563.0,620.0,N,Y,2012-10-23
+US,51800427,R3N57D56KK8WYE,B000JMKY7S,846781148,The World's Greatest Books - Volume 01 - Fiction,Digital_Ebook_Purchase,1,614.0,618.0,N,Y,2009-03-03
+US,17171509,R233M6VX8I5QXP,B001RF3U9K,661755708,UR,Digital_Ebook_Purchase,4,588.0,616.0,N,Y,2009-02-12
+US,30065533,R21O3I67B02UT8,B0071NMK66,618357654,Where We Belong: A Novel,Digital_Ebook_Purchase,1,471.0,614.0,N,Y,2012-08-13
+US,27367932,R2NIQEJE70PKBY,B00136D39U,785472998,Holy Bible: New American Standard Bible (NASB),Digital_Ebook_Purchase,3,597.0,613.0,N,N,2009-09-29
+US,12203412,RDBZZ8468ORD4,B004P8JPS6,430585753,The Affair: A Jack Reacher Novel,Digital_Ebook_Purchase,4,588.0,612.0,N,N,2011-09-27
+US,36247366,R173QG2SKZTAX5,B000FC2KBU,9315904,Holy Bible (NIV) (New International Version),Digital_Ebook_Purchase,3,583.0,610.0,N,Y,2008-02-12
+US,48552429,R2C9H97IJOANFZ,B004YD36HS,307237573,Suicide of a Superpower: Will America Survive to 2025?,Digital_Ebook_Purchase,5,537.0,609.0,N,Y,2011-10-18
+US,16056933,RT2TE0W92SL67,B007THA4FI,165338194,The Casual Vacancy,Digital_Ebook_Purchase,1,50.0,606.0,N,N,2012-09-27
+US,48671967,R59UJIX9304AJ,B0089LOM5G,400054554,Darwin's Doubt: The Explosive Origin of Animal Life and the Case for Intelligent Design,Digital_Ebook_Purchase,5,511.0,604.0,N,N,2013-07-24
+US,36187200,R2FM0R717KUAB,B00CU9P31K,406250704,The 12 Week Year: Get More Done in 12 Weeks than Others Do in 12 Months,Digital_Ebook_Purchase,2,559.0,604.0,N,Y,2013-07-15
+US,15637960,R1DP3DKPJ8ZZ78,B004M18ZI2,167797192,War Brides,Digital_Ebook_Purchase,3,564.0,603.0,N,Y,2011-08-22
+US,43001299,RE9BDLGQGI5WU,B0051BBHGE,909244484,Awaken His Eyes: The Awakened Book One,Digital_Ebook_Purchase,5,558.0,603.0,N,Y,2011-06-01
+US,40626116,R1DW5WPBLLFQ0B,B003TO681Y,829690577,Dr. Gundry's Diet Evolution: Turn Off the Genes That Are Killing You and Your Waistline,Digital_Ebook_Purchase,5,576.0,603.0,N,Y,2013-06-21

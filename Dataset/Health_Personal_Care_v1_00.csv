@@ -1,0 +1,201 @@
+marketplace,customer_id,review_id,product_id,product_parent,product_title,product_category,star_rating,helpful_votes,total_votes,vine,verified_purchase,review_date
+US,48970756,R3IZ72Z3AJ1DCF,B00N2BW2PK,366100425,Fitbit Charge HR Wireless Activity Wristband,Health & Personal Care,5,16401.0,17182.0,N,Y,2015-01-17
+US,20087834,R2QP56S5P2DEGA,B000KKNQBK,988199592,Veet for Men Hair Removal Gel Creme 200ml (1),Health & Personal Care,5,12983.0,13272.0,N,N,2012-07-03
+US,21396359,RFWM0CFO0UMWY,B00B9OYLC4,833576761,"Kleenex Facial Tissue, White",Health & Personal Care,5,10763.0,10867.0,N,N,2013-12-08
+US,9286343,R3IKIXCIYNNWVD,B005MR3IVO,778348557,"Passion Lubes, Natural Water-Based Lubricant",Health & Personal Care,3,8020.0,8312.0,N,N,2013-06-15
+US,25213868,R31RH7W0AX7OJA,B00BGO0Q9O,305113156,"Fitbit Flex Wireless Wristband with Sleep Function, Black",Health & Personal Care,2,7721.0,8160.0,N,N,2013-04-16
+US,40182057,R3SNTSII1C8R1X,B007BISCT0,696915084,"Squatty Potty The Original Bathroom Toilet Stool, White, 9""",Health & Personal Care,5,7890.0,8130.0,N,Y,2013-11-06
+US,2389997,R15Z5HQKB7HZCZ,B000VY8836,351432341,Banana Bunker (Color: Yellow),Health & Personal Care,3,7482.0,7526.0,N,N,2013-09-07
+US,31334469,ROJHG7VFKPZOC,B001KXZ808,949699275,EatSmart Precision Digital Bathroom Scale with Extra Large Lighted Display,Health & Personal Care,5,6792.0,6981.0,N,Y,2009-01-23
+US,50529140,R1DDQJ9WK0NH5V,B001ADL1SG,940397460,Crane Drop Ultrasonic Cool Mist Humidifier - Aqua,Health & Personal Care,5,6643.0,6757.0,N,N,2009-12-19
+US,42170574,R16VHJLYVB5VZV,B004VGIGVY,365187901,"GermGuardian AC4825 3-in-1 Air Purifier with True HEPA Filter, UV-C Sanitizer, Captures Allergens, Smoke, Odors, Mold, Dust, Germs, Pets, Smokers, 22-Inch Germ Guardian Air Purifier",Health & Personal Care,5,6200.0,6300.0,N,Y,2012-07-21
+US,14185349,RUKNVFK4ADF7O,B000QSNYGI,194076346,"Optimum Nutrition Gold Standard 100% Whey Protein Powder, Double Rich Chocolate",Health & Personal Care,5,4999.0,5746.0,N,N,2011-08-28
+US,25769100,R3PZXY6D68YF3E,B007S6Y74O,226932576,Garden of Life Raw Organic Meal,Health & Personal Care,3,5378.0,5650.0,N,Y,2014-03-28
+US,34191903,R1LF7VHD9NF8GI,B005MR3IVO,778348557,"Passion Lubes, Natural Water-Based Lubricant",Health & Personal Care,4,5237.0,5468.0,N,N,2011-10-12
+US,43640861,R1IPY6W08W0V36,B00V9JP8EE,301579594,"InnoGear Aromatherapy Essential Oil Diffuser Portable Ultrasonic Diffusers with Color LED Lights Changing and Waterless Auto Shut-off Function for Home Office Bedroom Room, 100 mL",Health & Personal Care,1,5126.0,5378.0,N,Y,2015-07-27
+US,50595352,R2HCDVHOUK3DOC,B0032TNPOE,308537931,"Eatsmart Precision Plus Digital Bathroom Scale with Ultra Wide Platform and Step-on Technology, 440-Pounds",Health & Personal Care,5,4952.0,5037.0,N,Y,2010-07-22
+US,28600924,R2K278BLAT59RV,B000W8Y7FY,544409268,NatureBright SunTouch Plus Light and Ion Therapy Lamp (package may vary),Health & Personal Care,4,4803.0,4965.0,N,Y,2010-09-16
+US,44585935,RN7TU2XRTEAG,B001FWXKTA,577310706,"Vicks Warm Mist Humidifier with Auto Shut-Off, 1 Gallon, Model V745A",Health & Personal Care,5,4838.0,4931.0,N,N,2010-12-04
+US,51292757,RJ3OLAXHVN61P,B00BGO0Q9O,305113156,"Fitbit Flex Wireless Wristband with Sleep Function, Black",Health & Personal Care,5,4733.0,4910.0,N,Y,2014-01-11
+US,52600590,R32COHXL26GSW0,B0095PZHPE,152365337,Fitbit One Wireless Activity Plus Sleep Tracker,Health & Personal Care,5,4411.0,4559.0,N,Y,2012-11-07
+US,49452274,R1CVXEEYIAIR0W,B00BGO0Q9O,305113156,"Fitbit Flex Wireless Wristband with Sleep Function, Black",Health & Personal Care,4,4079.0,4309.0,N,Y,2013-05-17
+US,51139031,R2XHIC9F02DT64,B004D9P1A8,849346875,Omron 7-Series Wrist Monitor,Health & Personal Care,5,3948.0,4039.0,N,Y,2011-11-10
+US,11930805,RQU5MZ8UN1Z23,B0000TN7ME,163862993,"Kaz Usa V150SGNL Pure Steam Vaporizer, 1.5-Gal.",Health & Personal Care,5,3642.0,3724.0,N,N,2010-01-25
+US,21396359,R3GM2OT8EH1P5T,B005MR3IVO,778348557,"Passion Lubes, Natural Water-Based Lubricant",Health & Personal Care,5,3471.0,3673.0,N,N,2014-02-28
+US,53075795,R2LD0GWB9YNF4,B0000U1OCI,920395582,Omron HJ-112 Digital Pocket Pedometer,Health & Personal Care,5,3575.0,3626.0,N,Y,2004-09-04
+US,32121114,R3DIXR4TXAFHLS,B0006II74C,826890876,Nature's Secret 5-Day Fast and Cleanse Kit,Health & Personal Care,3,3575.0,3606.0,N,Y,2013-12-20
+US,50521947,RWPN5AE8GVDTR,B00JEKYNZA,837920028,Hyperbiotics PRO-15 Probiotics - 60 Daily Time Release Pearls - 15x More Effective than Probiotic Capsules with Patented Delivery Technology - Easy to Swallow Probiotic Supplement,Health & Personal Care,5,3352.0,3467.0,N,Y,2014-11-03
+US,34213784,R6844WZOQ0SRA,B003BEDUS6,523663613,Go Girl Female Urination Device,Health & Personal Care,5,3334.0,3436.0,N,Y,2013-09-07
+US,12874352,R1KOTD5GS6KFT6,B00F3J9G1W,973672873,"Etekcity Digital Body Weight Bathroom Scale with Step-On Technology, 400 Pounds, Body Tape Measure Included, Elegant Black",Health & Personal Care,4,3225.0,3335.0,N,Y,2015-07-30
+US,22080237,R105T40H10MDNO,B0018P9NGI,339949483,Isagenix Cleansing and Fat Burning System - 9 Day Program (Tropical Berry/Chocolate Shake),Health & Personal Care,5,2972.0,3135.0,N,Y,2014-02-11
+US,43677676,R3CW1NEQLTI3Y2,B0007XJWYA,991633236,Marpac 980 SleepMate & Sound Screen Conditioner White Noise Sleep Machine,Health & Personal Care,5,3035.0,3127.0,N,Y,2006-04-04
+US,20674995,R50UZBMU7FN3D,B00N2BVOUE,635288976,Fitbit Charge Wireless Activity Wristband,Health & Personal Care,5,3000.0,3118.0,N,N,2014-11-08
+US,40199935,R236EF644PFM2L,B001ADL1SG,940397460,Crane Drop Ultrasonic Cool Mist Humidifier - Aqua,Health & Personal Care,5,3004.0,3099.0,N,Y,2010-12-30
+US,46090033,R4IXW7MPWZYFM,B004L6NTHU,65619308,EatSmart Products Precision Getfit Digital Body Fat Scale with Auto Recognition Technology,Health & Personal Care,5,3005.0,3064.0,N,Y,2011-10-10
+US,46552073,RBOQE2F0N9U4J,B004PTI1CQ,755455954,"Garcinia Cambogia Extract - 100% Pure Garcinia Cambogia GOLD - 500 mg, 180 Veggie Capsules (Clinically-Proven, Multi-Patented, Water-Soluble SuperCitrimax® 60% HCA Extract for Weight-Loss)",Health & Personal Care,5,2783.0,3017.0,N,Y,2013-07-30
+US,17338075,R291QGYHTOZFRX,B0019LVFSU,128974817,Almond Oil 4 Ounces,Health & Personal Care,5,2802.0,2890.0,N,Y,2013-12-30
+US,2761709,R338PAVS8N58QB,B00N2BWHWS,942105571,Fitbit Surge Fitness Superwatch,Health & Personal Care,1,2669.0,2869.0,N,Y,2015-02-22
+US,20567239,R2W36R32OAQWFU,B005MR3IVO,778348557,"Passion Lubes, Natural Water-Based Lubricant",Health & Personal Care,4,2736.0,2856.0,N,N,2013-09-08
+US,14225992,RSW0L6DGYXECA,B00TRLVKW0,858575196,AncestryDNA: Genetic Testing - DNA Ancestry Test Kit,Health & Personal Care,2,2656.0,2789.0,N,N,2015-07-23
+US,50070037,R3K74H0MT3E904,B0077L8YOO,68002309,Fitbit Aria WiFi Smart Scale,Health & Personal Care,5,2581.0,2717.0,N,Y,2012-06-06
+US,30159282,R2KLZIIGCGTCU3,B000FAG6X0,982326895,Diva Cup Diva Cup #1 Pre Childbirth,Health & Personal Care,5,2596.0,2690.0,N,N,2014-01-03
+US,34746901,R1EIYK954YSP59,B0026HDURA,781662334,"Penetrex - Pain Relief Cream, 2 Oz :: Ranked #1 in Medications & Treatments 5 Years Running. 100% Unconditionally Guaranteed.",Health & Personal Care,5,2324.0,2596.0,N,Y,2011-04-01
+US,48924299,R1VEBH0S3HAO9Y,B00M9YQ0R2,299279418,"PhenElite Weight Loss Diet Pills, 60 Pills (3 Pack)",Health & Personal Care,5,2424.0,2591.0,N,Y,2015-02-01
+US,35233443,R3I1E9AMI0ECXH,B0095PZHZE,893849130,Fitbit Zip Wireless Activity Tracker,Health & Personal Care,5,2503.0,2568.0,N,N,2012-12-08
+US,51900260,R7LECU7XA9VVM,B00LE99PA2,564563318,Amopé Pedi Perfect Electronic Foot File,Health & Personal Care,5,2372.0,2551.0,N,Y,2015-03-11
+US,52582938,R1W7WRDFQ61QRI,B00N2BVOUE,635288976,Fitbit Charge Wireless Activity Wristband,Health & Personal Care,2,2389.0,2548.0,N,Y,2015-03-09
+US,20553108,R3S8I62BH9XYGL,B00UNZEQVQ,582791909,pH-D Feminine Health Support,Health & Personal Care,5,2390.0,2491.0,N,Y,2015-07-15
+US,47211331,RBFRTXQNJJC7D,B00N2BVOUE,635288976,Fitbit Charge Wireless Activity Wristband,Health & Personal Care,4,2404.0,2467.0,N,Y,2015-01-17
+US,42836186,R3B1HHKTJNARY2,B000KPO9QG,462459093,Super Colon Cleanse Supplement,Health & Personal Care,5,1837.0,2455.0,N,N,2013-11-20
+US,26193880,R27GIDZBWP4R50,B000V9O04W,606382969,"Prevagen Apoaequorin, 30-Count Bottle",Health & Personal Care,1,2332.0,2432.0,N,N,2012-05-28
+US,41575924,RNGDS4C8WUF9T,B00N2BVOUE,635288976,Fitbit Charge Wireless Activity Wristband,Health & Personal Care,5,2281.0,2422.0,N,N,2014-11-08
+US,47461329,R3TUWHZLKDNG9O,B0006LCQ4Q,770902087,"Nature's Way Activated Charcoal High Adsorbency Internal Cleansing, 100 Capsules",Health & Personal Care,5,2237.0,2393.0,N,N,2013-11-29
+US,13814240,R25T9FIX6Z1P9P,B000FAG6X0,982326895,Diva Cup Diva Cup #1 Pre Childbirth,Health & Personal Care,5,2308.0,2349.0,N,N,2006-07-30
+US,49287376,RGLH56ENXX1FH,B000W8Y7FY,544409268,NatureBright SunTouch Plus Light and Ion Therapy Lamp (package may vary),Health & Personal Care,1,2128.0,2335.0,N,N,2011-09-17
+US,24936774,R2A68KXT99884W,B000FYZMYK,537456160,fat loss monitor,Health & Personal Care,5,2139.0,2254.0,N,Y,2009-03-26
+US,51066870,RN54M6WQI840H,B00MANEKWY,583225063,Organifi - Green Juice Super Food Supplement (270g) 30 Day Supply. USDA Organic Vegan Greens Powder by Organifi,Health & Personal Care,5,2138.0,2219.0,N,Y,2015-08-29
+US,34652061,R28OMV7RS8MOSP,B0015NHRE8,166405348,Juice Plus (two bottles): 1 Garden Blend and 1 Orchard Blend,Health & Personal Care,3,2131.0,2216.0,N,N,2011-11-16
+US,32404205,R3KBG0X1DUB2JP,B000KKNQBK,988199592,Veet for Men Hair Removal Gel Creme 200ml (1),Health & Personal Care,5,2006.0,2203.0,N,N,2012-05-11
+US,49452274,RU12ENFFFWD02,B0095PZHPE,152365337,Fitbit One Wireless Activity Plus Sleep Tracker,Health & Personal Care,3,1979.0,2191.0,N,Y,2012-11-27
+US,48573964,R2DS7MP9R7A87P,B00IJ4LRYW,219024599,Shakeology Chocolate 30 Servings (bulk) in a BAG,Health & Personal Care,2,2030.0,2178.0,N,N,2014-07-18
+US,13103455,RES6JZJOW70RR,B004H7GB9G,978446930,Natrol Biotin,Health & Personal Care,5,2055.0,2154.0,N,Y,2015-06-12
+US,12156522,R29G2ABBNN8DGF,B000AMUWLK,286269382,ConcenTrace Trace Mineral Drops,Health & Personal Care,1,1958.0,2146.0,N,N,2013-06-22
+US,52642098,RY5HHH1BDJGF4,B0026HDURA,781662334,"Penetrex - Pain Relief Cream, 2 Oz :: Ranked #1 in Medications & Treatments 5 Years Running. 100% Unconditionally Guaranteed.",Health & Personal Care,5,1904.0,2136.0,N,Y,2011-03-16
+US,43815136,R1ZAQMPKNXNI8F,B000L596FE,604720075,"The Wet Hair Brush, 3.5 Ounce",Health & Personal Care,5,1998.0,2104.0,N,Y,2013-01-25
+US,51031401,R1F57NADOPNHDC,B005NZ66KU,597650000,Sunbeam Xpressheat Heating Pad,Health & Personal Care,5,1949.0,2063.0,N,Y,2012-01-17
+US,26045665,R1V8HC6GBNRV46,B002QPR852,667468857,23andMe Personal Genome Service: DNA Test for Health and Ancestry Information,Health & Personal Care,1,1882.0,2059.0,N,N,2013-06-21
+US,34208388,RWXK9NWA3HQXN,B001P20ZT8,870649614,Crest Advanced Seal Whitestrips Whitening Kit,Health & Personal Care,5,1847.0,2055.0,N,N,2009-04-20
+US,50363463,R1FDPKSDFNVIV8,B00LE99PA2,564563318,Amopé Pedi Perfect Electronic Foot File,Health & Personal Care,3,1843.0,2042.0,Y,N,2014-08-04
+US,51106732,R3987QI5VERKN2,B001KXZ808,949699275,EatSmart Precision Digital Bathroom Scale with Extra Large Lighted Display,Health & Personal Care,3,1896.0,2023.0,N,Y,2009-07-28
+US,21329055,R192IS28SOQD32,B0002U72LS,811049213,Datexx The Miracle Cube Timer,Health & Personal Care,5,1992.0,2018.0,N,N,2012-11-05
+US,38748881,R2LIUKK24K3IKS,B0013LRVWA,200666829,"Wet-Stop3 Bedwetting Enuresis Alarm with Loud Sound and Strong Vibration for Boys or Girls, Proven Solutions for Bedwetters",Health & Personal Care,5,1971.0,2001.0,N,N,2009-12-21
+US,46888047,RX56G95NSGF4P,B004L6NTHU,65619308,EatSmart Products Precision Getfit Digital Body Fat Scale with Auto Recognition Technology,Health & Personal Care,1,1700.0,1989.0,N,Y,2012-07-09
+US,33688651,R1F0PT2N8B10DN,B000KUHFGM,991633236,Marpac All-Natural Noise Sound Machine,Health & Personal Care,5,1842.0,1985.0,N,Y,2008-09-22
+US,41275474,R3GLLP28M7AQNZ,B00B5H5BGA,731502134,"NatureWise Pure Garcinia Cambogia,100% Natural HCA Extract Supports Weight Loss and Curbs Appetite, Superior Absorption",Health & Personal Care,5,1729.0,1969.0,N,Y,2014-01-08
+US,40679849,RMYLT4HYP09MP,B004PTI1CQ,755455954,"Garcinia Cambogia Extract - 100% Pure Garcinia Cambogia GOLD - 500 mg, 180 Veggie Capsules (Clinically-Proven, Multi-Patented, Water-Soluble SuperCitrimax® 60% HCA Extract for Weight-Loss)",Health & Personal Care,5,1664.0,1935.0,N,Y,2012-11-29
+US,49628417,RCO07QNUHMR5U,B00JGU13PG,114167004,Icy Hot Smart Relief TENS Therapy,Health & Personal Care,1,1843.0,1934.0,N,N,2014-05-08
+US,25187358,R11SATHHU4KZ5U,B002NXTOJK,482788222,"Omega 3's Anti-Inflammatory 60ct Bottle, Arthritis Pain Relief, Most Concentrated Omega 3's Essential Fatty Acids",Health & Personal Care,1,1809.0,1915.0,N,N,2013-02-11
+US,39584552,RYCPUIA0VTNM2,B005MR3IVO,778348557,"Passion Lubes, Natural Water-Based Lubricant",Health & Personal Care,4,1715.0,1907.0,N,N,2011-10-12
+US,8559418,RG9E586KAYQ09,B00E6D6LQY,725844909,LectroFan,Health & Personal Care,5,1846.0,1896.0,N,Y,2013-10-31
+US,47611377,R1J7QH1B4ZY1YB,B005MR3IVO,778348557,"Passion Lubes, Natural Water-Based Lubricant",Health & Personal Care,5,1680.0,1884.0,N,N,2011-10-03
+US,15135902,R25OCPH2WZSQX,B000Q3YD2W,462459093,Super Colon Cleanse Supplement,Health & Personal Care,4,1648.0,1878.0,N,Y,2011-10-14
+US,25003322,RYSFGTTHNG5C8,B00F6WRW2Q,289111448,"Fitbit Force Wireless Activity + Sleep Wristband, Black, Large",Health & Personal Care,4,1788.0,1833.0,N,Y,2013-11-06
+US,24910876,R2XE5G5AZU4M93,B0013OULVA,383848174,Jarrow Formulas Milk Thistle 150 mg Caps,Health & Personal Care,5,1735.0,1821.0,N,Y,2012-01-20
+US,19648845,R2A5T2R6SCXTW9,B006FL32M6,500784376,Tummy Tuck Miracle Slimming System,Health & Personal Care,1,1672.0,1783.0,N,Y,2012-03-16
+US,1326939,R33M2VUBXYW3XL,B00EIWU2FE,809738378,"Sweet Sweat Premium Waist Trimmer, for Men & Women. Includes Free Sample of Sweet Sweat Gel!",Health & Personal Care,4,1597.0,1782.0,N,Y,2015-03-15
+US,42159177,R2OUNR3R8RG55K,B0013OXKHC,523831443,NOW Foods Super Enzymes,Health & Personal Care,5,1734.0,1779.0,N,Y,2012-06-30
+US,41768056,RZHL9TR4DQBT4,B00GOTTQFG,631446185,Sexflesh Rebellious Ryan 9 Inch Dildo With Suction Cup,Health & Personal Care,1,1424.0,1746.0,N,Y,2015-07-27
+US,52226443,R26KPWZ2UTXWYU,B001FWXKTA,577310706,"Vicks Warm Mist Humidifier with Auto Shut-Off, 1 Gallon, Model V745A",Health & Personal Care,5,1646.0,1710.0,N,Y,2008-11-16
+US,51692288,RB4G04MCBUNGJ,B005MR3IVO,778348557,"Passion Lubes, Natural Water-Based Lubricant",Health & Personal Care,5,1611.0,1705.0,N,N,2013-02-17
+US,32448221,RC1FTKNYBNM4D,B000ELVHIE,924531580,"NOW Foods, Peppermint Oil",Health & Personal Care,5,1652.0,1696.0,N,Y,2011-04-12
+US,51699330,R6AP8TLZ0K20X,B007R6ZUFU,573026758,Advocare 24 Day Challenge,Health & Personal Care,1,1569.0,1684.0,N,N,2013-07-31
+US,14850367,R17K381GWN92GE,B000W4PNDS,194569924,"Align Daily Probiotic Supplement, Probiotics Supplement, 28 Capsules",Health & Personal Care,5,1620.0,1682.0,N,N,2011-09-03
+US,28755743,RYC0CV2NGQIGE,B000QSNYGI,194076346,"Optimum Nutrition Gold Standard 100% Whey Protein Powder, Double Rich Chocolate",Health & Personal Care,5,1343.0,1681.0,N,Y,2013-05-13
+US,50323536,R14LGYQ9XYRX55,B000FAG6XA,602159855,Diva Cup Diva Cup #2 Post Childbirth,Health & Personal Care,5,1660.0,1681.0,N,Y,2015-01-08
+US,21485185,R7MGZ06U3NRQW,B003TJH3LI,246614591,Deluxe SM-110 Two Way Display Finger Pulse Oximeter with Carry Case and Neck/Wrist Cord,Health & Personal Care,5,1538.0,1661.0,N,Y,2010-12-18
+US,50568416,R38NSDKKYMO5FE,B000E7WJVW,545762826,Natural Calm Original Flavor 16 Ounces,Health & Personal Care,5,1419.0,1654.0,N,Y,2007-10-31
+US,16630300,RDVXVUXFJPDT3,B00N2BWF6Q,942105571,Fitbit Surge Fitness Superwatch,Health & Personal Care,2,1510.0,1652.0,N,Y,2014-12-16
+US,27545045,RH2SOW1L98QFM,B002X4NWHO,83831357,Power Balance Silicone Wristband Black with Black - LARGE,Health & Personal Care,1,1561.0,1644.0,N,N,2010-09-22
+US,40814455,R3MNAQLM911TKY,B003H2EODW,131757068,"Elite First Aid Fully Stocked GI Issue Medic Kit Bag, Large",Health & Personal Care,4,1610.0,1620.0,N,Y,2013-01-22
+US,30538808,R3CI0HPR8FGOYM,B00M4M2UF0,911019126,Amazon Elements Wipes,Health & Personal Care,3,1500.0,1619.0,N,Y,2015-01-28
+US,12301795,R2YUZM2NC3OT5I,B0031JK96C,882244058,"Garden of Life Organic Vegan Protein Powder with Vitamins and Probiotics - Raw Protein Shake, Sugar Free, Chocolate, 10 Count Tray",Health & Personal Care,1,1382.0,1596.0,N,Y,2014-02-05
+US,14999827,R38NU6Z6M66L33,B0084EI2B8,388383883,Polar FT4F Water Resistant Time & Heart Watch,Health & Personal Care,5,1556.0,1592.0,N,N,2013-04-18
+US,45771399,R1X9AFDB40XG0F,B0018P9NGI,339949483,Isagenix Cleansing and Fat Burning System - 9 Day Program (Tropical Berry/Chocolate Shake),Health & Personal Care,1,1346.0,1591.0,N,N,2014-10-31
+US,39225169,R3Q8QBCK8AE9W5,B007FZLXGI,333513651,"Superior Labs TEST WORx Natural Testosterone Booster With Clinically Proven LJ100 and 8 Other Powerful Ingredients Delivers A Noticeable Increase In Energy, Stamina, Recovery and Better Sleep and Mood",Health & Personal Care,1,1368.0,1583.0,N,Y,2012-09-03
+US,37973849,R26YDF2USBAURJ,B000HCMK90,121077437,Now Foods D-Mannose 500 mg - 120 Caps …,Health & Personal Care,5,1519.0,1574.0,N,Y,2012-05-21
+US,51756359,R2LT4VUWIF2NJS,B00AC4DYWA,778686998,Garcinia LEAN (180 Capsules) - #1 Garcinia Cambogia = Max Weight Loss,Health & Personal Care,5,1393.0,1566.0,N,Y,2013-07-04
+US,1183996,R322I5HLCC218U,B004KQ9HZY,676236032,"Hydroxycut Pro Clinical, America's Number 1 Selling Weight Loss Brand, Weight Loss Supplement 150 Caplets",Health & Personal Care,4,1282.0,1559.0,N,N,2015-05-08
+US,24337363,R3F26HPOUG42XY,B00BGO0Q9O,305113156,"Fitbit Flex Wireless Wristband with Sleep Function, Black",Health & Personal Care,4,1391.0,1550.0,N,N,2013-05-03
+US,52600590,R309UWZH01NO68,B005PUONIK,80294779,Fitbit Ultra Wireless Activity Plus Sleep Tracker,Health & Personal Care,5,1509.0,1549.0,N,Y,2011-10-09
+US,52847433,R1T1Y837LDKTC0,B008VDBJ2Q,37610159,The HurryCane- The All-Terrain Cane,Health & Personal Care,3,1508.0,1548.0,N,Y,2012-08-19
+US,16253675,RMROSIBS34R2K,B0010AZ6Q2,786434680,Dermatend Skin Tag Remover: Removes up to 4 Skin Tags. Works in As Little As 8 Hours. 60 Day Guarantee. 100% Natural.,Health & Personal Care,5,1452.0,1546.0,N,N,2009-03-23
+US,15190414,R2TFONQ2OUI8BG,B0031JK95S,226932576,Garden of Life Raw Organic Meal,Health & Personal Care,5,1448.0,1546.0,N,N,2010-05-27
+US,23116899,R3A19G2J2NTMME,B0014HCSMQ,329440882,"Solo 18-Ounce Solo Squared Cups (Colors May Vary), 20-Count Packages (Pack of 12)",Health & Personal Care,5,1526.0,1542.0,N,Y,2012-05-22
+US,15614889,R3EOJ5FBAM140G,B000OWLNBY,247516283,"alli Orlistat 60 milligram, Only FDA Approved Over-The-Counter Weight Loss Aid to Supplement your Diet",Health & Personal Care,1,1407.0,1541.0,N,Y,2015-03-04
+US,25710924,R2QHIYY16ZQZE4,B003QM4UAA,690910158,ViSalus Body By Vi Balance Kit - 24 Meals + 5 Extra Health Mix-ins,Health & Personal Care,2,1352.0,1540.0,N,N,2012-05-24
+US,8578054,R2C4MRX4YKSQL4,B007LAHS2K,561021543,Hydroxycut Hardcore Elite Weightloss Capsules,Health & Personal Care,4,1321.0,1539.0,N,N,2013-09-29
+US,29241048,R2B1Q8DRDY524V,B002AA8GDG,793051897,Krista's Cups pStyle,Health & Personal Care,5,1522.0,1529.0,N,Y,2015-06-11
+US,52754816,R31EGJZLHJ0NNL,B00JEKYNZA,837920028,Hyperbiotics PRO-15 Probiotics - 60 Daily Time Release Pearls - 15x More Effective than Probiotic Capsules with Patented Delivery Technology - Easy to Swallow Probiotic Supplement,Health & Personal Care,5,1427.0,1526.0,N,Y,2014-07-26
+US,52319320,R2WW4WFVWFAK14,B002SMJQT4,32591568,Adaptive Sound Technologies - Sound+Sleep,Health & Personal Care,5,1483.0,1525.0,N,Y,2009-10-27
+US,21592790,R34BQY5JO92U35,B0095PZHZE,893849130,Fitbit Zip Wireless Activity Tracker,Health & Personal Care,5,1435.0,1522.0,N,N,2013-04-25
+US,1593064,R1UXBPCU0IT3A6,B004H7GB9G,978446930,Natrol Biotin,Health & Personal Care,5,1214.0,1515.0,N,N,2014-07-30
+US,52946904,R3E6L22G68QPDF,B001CWT4JI,26794596,SinuPulse Elite Advanced Nasal Sinus Irrigation System,Health & Personal Care,2,1351.0,1497.0,N,Y,2008-09-16
+US,50388603,R3ENURE7SMSD6A,B000S92RNQ,403475441,"Now Foods Fresh Green Black Walnut Wormwood Complex, 2-Ounce",Health & Personal Care,5,1474.0,1497.0,N,Y,2014-04-03
+US,40483276,R1K21J7M0LMVP0,B0009EYIQ4,300003099,Amazing Herbs Cold-Pressed Black Seed Oil Softgels - 90 Capsules,Health & Personal Care,5,1397.0,1479.0,N,Y,2012-05-28
+US,52753522,R1WDLYWFQLQ0FW,B00MNV8E0C,987459102,AmazonBasics Performance Alkaline Batteries,Health & Personal Care,3,1400.0,1476.0,N,N,2015-05-13
+US,51373049,R2ZW08GEPEFPL2,B00E8PXYJ2,676931315,Professional Rechargeable Oral Irrigator with High Capacity Water Tank by ToiletTree Products. 2nd Generation Version. (Black),Health & Personal Care,5,1441.0,1467.0,N,N,2013-08-14
+US,16448567,R1E7K8NNVG4GES,B00014DZL6,656541973,"Solgar – Brewer’s Yeast Powder, 14 Ounce – Supports Heart Health and Digestion",Health & Personal Care,5,1440.0,1465.0,N,Y,2015-01-14
+US,44489215,RZQYE4JHNL28D,B00B986G8C,653521399,"Arctic Ruby Oil, Calanus Oil, Omega-3 Fatty Acids, Astaxanthin Dietary Supplement",Health & Personal Care,5,1399.0,1462.0,N,N,2013-08-14
+US,46137405,R2K6CFUGO9FOC5,B0009ETA6W,108186367,"Nature's Way Fenugreek Seed, 610 Mg",Health & Personal Care,5,1344.0,1460.0,N,N,2011-06-27
+US,48803450,R37G3L76ZPZ7F6,B00N2BWHWS,942105571,Fitbit Surge Fitness Superwatch,Health & Personal Care,4,1392.0,1453.0,N,N,2015-01-05
+US,16446861,R1E8W3F5ZECZVQ,B0019HXMIK,518943311,5 Hour Energy / 72 Bottles,Health & Personal Care,2,1418.0,1445.0,N,N,2012-05-19
+US,16004099,R1MDJBMKS3B6EB,B00LE99PA2,564563318,Amopé Pedi Perfect Electronic Foot File,Health & Personal Care,5,1266.0,1442.0,N,Y,2014-10-22
+US,52947763,R1EJQB9X3I6ZRU,B001KXZ808,949699275,EatSmart Precision Digital Bathroom Scale with Extra Large Lighted Display,Health & Personal Care,1,1202.0,1440.0,N,Y,2009-11-11
+US,14073235,R2CHU3LBGP29QF,B000KKNQBK,988199592,Veet for Men Hair Removal Gel Creme 200ml (1),Health & Personal Care,5,1257.0,1438.0,N,N,2012-09-12
+US,23125324,R44ICCZDUW3ON,B004D4SW5O,951078034,"ViSalus Nutritional Shake Mix Shape Kit (48 meals, 10 mix-ins)",Health & Personal Care,4,1390.0,1433.0,N,Y,2012-03-14
+US,52240388,RWYNX9L66G05F,B000OP1W0S,924998319,Raw Organic Apple Cider Vinegar by Bragg (1 gallon),Health & Personal Care,5,1313.0,1427.0,N,N,2010-07-27
+US,31857990,R20I1K8FWGH8PH,B001AEFM9Y,803008203,J.CROW'S® Lugol's Solution of Iodine 2% 2oz,Health & Personal Care,5,1407.0,1425.0,N,Y,2009-08-15
+US,15855362,R2CZY74ODE3NTK,B0026HDURA,781662334,"Penetrex - Pain Relief Cream, 2 Oz :: Ranked #1 in Medications & Treatments 5 Years Running. 100% Unconditionally Guaranteed.",Health & Personal Care,5,1250.0,1411.0,N,Y,2013-06-27
+US,32364107,R1NDOPKP48ZUUV,B00E6D6LQY,725844909,LectroFan,Health & Personal Care,5,1381.0,1411.0,N,Y,2013-11-25
+US,15536956,R6VB3R2E13GI4,B00N2BW2PK,366100425,Fitbit Charge HR Wireless Activity Wristband,Health & Personal Care,5,1241.0,1409.0,N,N,2015-01-25
+US,18631110,R2TDOXJGR62GUM,B007RYYQHU,209714167,Beachbody Shakeology Meal Replacement Shake Chocolate Flavor (Bulk Bag 30 Day Supply),Health & Personal Care,1,1323.0,1407.0,N,N,2012-11-20
+US,29041387,RAPRMAVK87HB4,B006FL32M6,500784376,Tummy Tuck Miracle Slimming System,Health & Personal Care,1,1328.0,1406.0,N,Y,2012-01-31
+US,52781547,RPBGXLLDD91MC,B002MBHGGQ,335579658,Back2Life Continuous Motion Massager,Health & Personal Care,2,1377.0,1403.0,N,N,2009-10-22
+US,14999827,R1H4TUEOPIFB5J,B00HK61L3C,284004219,"Ubervita W700 Thermogenic Hyper Metabolizer Capsules, 60 Count",Health & Personal Care,5,1081.0,1392.0,N,N,2014-04-20
+US,13458354,R1M7NFEKY5XAP,B000W4PNDS,194569924,"Align Daily Probiotic Supplement, Probiotics Supplement, 28 Capsules",Health & Personal Care,3,1206.0,1385.0,N,N,2010-12-15
+US,12257984,R3HY5Q3A0OEHQ8,B0000U1OCI,920395582,Omron HJ-112 Digital Pocket Pedometer,Health & Personal Care,5,1260.0,1377.0,N,N,2008-01-23
+US,12603068,RGOWNF3FR0EWF,B0018P9NGI,339949483,Isagenix Cleansing and Fat Burning System - 9 Day Program (Tropical Berry/Chocolate Shake),Health & Personal Care,1,1155.0,1368.0,N,N,2014-09-29
+US,15300421,R9EP5W3QJPZBT,B004VGIGVY,365187901,"GermGuardian AC4825 3-in-1 Air Purifier with True HEPA Filter, UV-C Sanitizer, Captures Allergens, Smoke, Odors, Mold, Dust, Germs, Pets, Smokers, 22-Inch Germ Guardian Air Purifier",Health & Personal Care,5,1240.0,1357.0,N,Y,2013-12-30
+US,52884142,R1S0NEM5G87Z5X,B000NRTW4U,452279226,Spirulina Pacifica 16 oz,Health & Personal Care,5,1305.0,1353.0,N,Y,2010-02-05
+US,12201275,R27UOCYMQ5OHIL,B0013TM9UQ,481573175,NOW Foods - Castor Oil,Health & Personal Care,5,1285.0,1349.0,N,N,2015-02-05
+US,52772260,R1O12XVOSEDL9H,B00AJDZJCW,816048863,4th Generation Dr Mom LED POCKET Otoscope and both Adult and Pediatric Disposable Specula Tips and Case.,Health & Personal Care,2,1304.0,1335.0,N,Y,2014-06-04
+US,26619798,RQKKVTV1QZ588,B00N2BWF6Q,942105571,Fitbit Surge Fitness Superwatch,Health & Personal Care,5,1250.0,1325.0,N,N,2014-12-13
+US,45566300,R2Y8IOYXL9BIJI,B000GIPJ0M,487479351,Optimum Nutrition Serious Mass,Health & Personal Care,4,1233.0,1325.0,N,Y,2014-05-22
+US,9919027,R22RBNREOIUJKV,B00N2BW638,366100425,Fitbit Charge HR Wireless Activity Wristband,Health & Personal Care,5,1177.0,1320.0,N,Y,2015-01-22
+US,39644376,R34X9EKH4BT59D,B00N2BW638,366100425,Fitbit Charge HR Wireless Activity Wristband,Health & Personal Care,5,1226.0,1309.0,N,N,2015-04-28
+US,24936774,R1QOARW5M88LEL,B005IHJ556,193090030,"Aromatherapy Top 6 100% Pure Therapeutic Grade Basic Sampler Essential Oil Gift Basic sampler essential oil gift set 6-10ML (lavender, sweet orange, peppermint, lemongrass, tea tree, eucalyptus)",Health & Personal Care,5,1236.0,1305.0,N,N,2011-09-14
+US,53036562,R1GSWTTSPWIEWA,B00DCEBLP4,983210457,truMedic TENS Unit Electronic Pulse Massager,Health & Personal Care,2,1113.0,1292.0,N,Y,2013-10-07
+US,13613144,R2ZH8ZSJJM3WP,B00028NGEC,984086519,NeoCell - Super Collagen +C Tablets 6000 mg.,Health & Personal Care,5,1184.0,1278.0,N,Y,2013-07-12
+US,29241048,RQK2LQCNXZ1KR,B003BEDURW,523663613,Go Girl Female Urination Device,Health & Personal Care,3,1254.0,1278.0,N,Y,2015-06-12
+US,35253987,R1T1LNSYKO80AN,B00008MOQA,733155287,Swiffer Wet Jet in the Box Starter Kit,Health & Personal Care,5,1257.0,1277.0,N,N,2007-12-18
+US,7243358,R27V8F1JG5DZ1G,B004H7GB9G,978446930,Natrol Biotin,Health & Personal Care,5,903.0,1275.0,N,Y,2013-08-15
+US,50767264,R1P5JG92I3YMM9,B0011865O0,540636601,Natural Candida Cleanse with no Die Off by Pure Essence Labs,Health & Personal Care,1,1136.0,1274.0,N,N,2013-01-15
+US,14459824,R1Z7TTXKPUDBGY,B005M2B5P0,980433919,Elephant Ear Washer Bottle System,Health & Personal Care,5,1199.0,1274.0,N,Y,2012-09-16
+US,39604320,R16X1NJ9Q8YVDK,B00028NGEC,984086519,NeoCell - Super Collagen +C Tablets 6000 mg.,Health & Personal Care,1,1152.0,1273.0,N,Y,2014-12-28
+US,52038145,R2F04VRRZRHBQF,B001ADL1SG,940397460,Crane Drop Ultrasonic Cool Mist Humidifier - Aqua,Health & Personal Care,1,1041.0,1253.0,N,Y,2011-01-23
+US,35530354,R1Y8Q1YLOGDG9I,B000HIBPV8,297851266,"Nit Free Terminator Lice Comb, Professional Stainless Steel Louse and Nit Comb for Head Lice Treatment, Removes Nits",Health & Personal Care,5,1217.0,1251.0,N,Y,2007-11-15
+US,11643060,R89O5O22W92FS,B00IOZWC2M,722884288,"Biotin (High Potency) 5000mcg Per Veggie Softgel; Enhanced with Coconut Oil for better absorption; Supports Hair Growth, Glowing Skin and Strong Nails; 120 Mini-Veggie Softgels; Made In USA.",Health & Personal Care,5,1186.0,1250.0,N,Y,2014-11-01
+US,28021023,R1J2OXMQ5BXE7G,B0014R4RZW,40994226,VSL 3 High Potency Probiotic Capsules for Ulcerative Colitis - 60 capsules,Health & Personal Care,5,1208.0,1249.0,N,N,2013-12-14
+US,50344309,R5XX42EZNE4ZO,B002H0KZ9M,187746101,"Vitafusion Multi-vite, Gummy Vitamins for Adults",Health & Personal Care,5,1225.0,1245.0,N,Y,2011-03-15
+US,52587275,R3BBGHCW8MQHTT,B000A5CEUO,759423840,Omron Heart Rate Monitor Watch,Health & Personal Care,5,1223.0,1245.0,N,N,2006-04-27
+US,847310,R93I1MVELPHVP,B00LVMA1TQ,843590918,Forskolin Weight Loss Supplement for Men and Women – Burns Body Fat and Boosts Metabolism – Natural Pure Coleus Forskohlii Extract – Standardized 20% Forskolin – 60 Capsules by California Products,Health & Personal Care,2,880.0,1226.0,N,N,2015-05-06
+US,4039632,R13ODF1GR3U72Z,B004LUZ956,699909184,Pearl Enterprises 1.0mm Dermabrasion M.T. ROLLER with Travel Case,Health & Personal Care,4,1165.0,1224.0,N,Y,2013-10-13
+US,38650294,REPIZLRVCJ8HC,B005S1CHKC,652357011,Drive Medical Four Wheel Rollator with Fold Up Removable Back Support,Health & Personal Care,5,1187.0,1222.0,N,Y,2012-03-14
+US,52030811,R3RQQ6IU7WR4OC,B004JF3G08,129035201,"Sphere Gadget Technologies Lightphoria, 10,000 Lux Energy Light Lamp",Health & Personal Care,3,998.0,1221.0,N,Y,2011-10-07
+US,14873651,R1NL2YVQ0ACSTC,B007BF7JNS,745885948,"vH Essentials 15 Prebiotic Vaginal Suppositories, pH Balanced for Feminine Health",Health & Personal Care,5,1168.0,1216.0,N,Y,2015-03-17
+US,16191167,R1PXAYFXEXM17M,B002LMBO1Y,504112898,"Almased - Multi Protein Powder - Supports Weight Loss, Optimal Health and Maximum Energy, 17.6 oz",Health & Personal Care,4,1125.0,1211.0,N,Y,2013-02-02
+US,10276268,R2CAHV8LN0D5SD,B002RL8FCU,869906383,Kirkland Signature Daily Multi Vitamins & Minerals Tablets,Health & Personal Care,5,1180.0,1205.0,N,Y,2012-07-14
+US,27854510,R22O758NPNQFM,B00JEKYNZA,837920028,Hyperbiotics PRO-15 Probiotics - 60 Daily Time Release Pearls - 15x More Effective than Probiotic Capsules with Patented Delivery Technology - Easy to Swallow Probiotic Supplement,Health & Personal Care,5,1095.0,1205.0,N,N,2014-04-25
+US,38382045,R26W1A0I9S4IL8,B00A2JBMRE,782161634,HoMedics SS-2000G/F-AMZ Sound Spa Relaxation Machine with 6 Nature Sounds,Health & Personal Care,1,1107.0,1201.0,N,Y,2013-06-27
+US,25001418,RXMJ3MCBY7WU4,B005R3IPJI,862294024,Kojie San Lightening Soap - Pack of 2,Health & Personal Care,4,1119.0,1196.0,N,Y,2013-10-30
+US,36348619,R2XK18E8PDP66K,B000S92RJA,619706845,D-Mannose,Health & Personal Care,5,1149.0,1193.0,N,Y,2008-10-09
+US,14185349,R3J9IHBT75M5UW,B002DYJ0M0,722993708,Optimum Nutrition 100% Casein Protein,Health & Personal Care,5,1075.0,1186.0,N,N,2011-09-12
+US,17829235,R2S8IGKJH5S8CR,B0077L8YOO,68002309,Fitbit Aria WiFi Smart Scale,Health & Personal Care,3,1062.0,1174.0,N,N,2012-07-25
+US,23889841,R1FPMMS9EYW09P,B0013TM9UQ,481573175,NOW Foods - Castor Oil,Health & Personal Care,5,1133.0,1169.0,N,Y,2014-01-02
+US,36168933,R31CLQD956TFM8,B003U6A3EY,840734187,Ziploc Big Bag Double Zipper,Health & Personal Care,5,1142.0,1166.0,N,N,2010-09-25
+US,28949755,R1Z0KW32LMLBIE,B004VGIGVY,365187901,"GermGuardian AC4825 3-in-1 Air Purifier with True HEPA Filter, UV-C Sanitizer, Captures Allergens, Smoke, Odors, Mold, Dust, Germs, Pets, Smokers, 22-Inch Germ Guardian Air Purifier",Health & Personal Care,5,1056.0,1160.0,N,N,2013-12-14
+US,9440498,R2E3D9XA9PUIPN,B00H9L7VIW,851045898,"boostULTIMATE - 60 Capsules - Increase Workout Stamina, Muscle Size, Energy & More 1 Month Supply",Health & Personal Care,5,989.0,1160.0,N,Y,2014-02-26
+US,48515613,R3N63DYU4QZBNM,B002GFCCVW,697273492,"Best Fat Burners that Work - Liporidex MAX Weight Loss Supplements - Appetite Suppressant Pills Increase Energy, Reduce Belly Fat, Reduce Appetite, and Lose Weight Fast",Health & Personal Care,4,1046.0,1159.0,N,N,2013-10-01
+US,47268398,R1F3JKU40SCTN4,B00F6WRW2Q,289111448,"Fitbit Force Wireless Activity + Sleep Wristband, Black, Large",Health & Personal Care,2,1015.0,1153.0,N,N,2013-11-06
+US,12055925,RX2VVRIK2CNV7,B00F3J9G1W,973672873,"Etekcity Digital Body Weight Bathroom Scale with Step-On Technology, 400 Pounds, Body Tape Measure Included, Elegant Black",Health & Personal Care,5,1047.0,1145.0,N,N,2014-09-30
+US,847304,R3S9QHJG752ZX7,B00ISAPPLI,163432634,"Dr. Tobias Colon: 14 Day Quick Cleanse to Support Detox, Weight Loss & Increased Energy Levels",Health & Personal Care,3,881.0,1144.0,N,N,2015-05-06
+US,36566470,R3MDYQQHZ8933K,B003BEDUS6,523663613,Go Girl Female Urination Device,Health & Personal Care,5,1098.0,1139.0,N,Y,2010-04-15
+US,44221727,RQ09V8I3Y2EIF,B00A2JBMRE,782161634,HoMedics SS-2000G/F-AMZ Sound Spa Relaxation Machine with 6 Nature Sounds,Health & Personal Care,5,1091.0,1137.0,N,Y,2013-01-22
+US,5019161,R1X83WFRFAM9B,B004KQBGDA,156162887,PRO CLINICAL HYDROXYCUT MAX FOR WOMEN,Health & Personal Care,5,1101.0,1131.0,N,N,2015-01-27
+US,37500185,R1XKQAJ9QG8QB1,B0002D150Y,989535262,Nature Made SAM-e,Health & Personal Care,5,1098.0,1129.0,N,N,2009-11-09
+US,52989182,R13UV7L0XD07IE,B004H4B3W4,752203531,Omron 10-Series Upper Arm Monitor,Health & Personal Care,5,1088.0,1127.0,Y,N,2011-01-31
+US,52630045,R312JGGS0WFHBL,B000BD0RT0,278888581,"Doctor's Best High Absorption Magnesium Glycinate Lysinate, 100% Chelated, Non-GMO, Vegan, Gluten Free, Soy Free,  200 mg, 240 Tablets",Health & Personal Care,5,1058.0,1127.0,N,N,2012-04-18
+US,38486465,RCH4DJ0H38CV8,B000Q2ULMY,26803630,Guardian Angel,Health & Personal Care,5,1084.0,1110.0,N,N,2009-11-18
+US,48611260,R3J3578AOKWL0Q,B0019BQ0X0,412812946,"Dr. Scholl's Wart Remover, 7 Treatments, Box",Health & Personal Care,5,1055.0,1104.0,N,N,2014-04-23
+US,50893817,ROPGT1X2F5GEN,B004L6NTHU,65619308,EatSmart Products Precision Getfit Digital Body Fat Scale with Auto Recognition Technology,Health & Personal Care,5,1049.0,1100.0,N,Y,2011-04-03
+US,14366967,R154IMRW1NP66O,B005RCDW8S,275243076,Cellucor C4 Extreme 30serv,Health & Personal Care,4,811.0,1098.0,N,Y,2014-01-27
