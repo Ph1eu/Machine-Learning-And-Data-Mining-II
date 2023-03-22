@@ -1,0 +1,57 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Machine Learning and Data Mining II
+message: Final Project - USTH
+type: dataset
+authors:
+  - given-names: Minh Hiếu
+    family-names: Phạm
+    email: hieupm.bi11-090@st.usth.edu.vn
+    affiliation: University of Science and Technology of Hanoi
+  - family-names: Nguyễn
+    email: minhnd.bi11-179@st.usth.edu.vn
+    affiliation: University of Science and Technology of Hanoi
+    given-names: Đăng Minh
+  - given-names: Nhật Minh
+    email: minhhn.bi11-173@st.usth.edu.vn
+    family-names: Hoàng
+    affiliation: University of Science and Technology of Hanoi
+  - family-names: Văn
+    email: anvq.bi11-004@st.usth.edu.vn
+    affiliation: University of Science and Technology of Hanoi
+    given-names: Quốc An
+  - family-names: Lê Đình
+    given-names: Thông
+    email: thongld.bi11-257@st.usth.edu.vn
+    affiliation: University of Science and Technology of Hanoi
+  - given-names: Quang Huy
+    family-names: Hoàng
+    email: huyhq.bi11-111@st.usth.edu.vn
+    affiliation: University of Science and Technology of Hanoi
+  - family-names: Lê
+    given-names: Quốc Hưng
+    email: hunglq.bi11-104@st.usth.edu.vn
+    affiliation: University of Science and Technology of Hanoi
+  - family-names: Phạm Lê
+    given-names: Đức Minh
+    email: minhpld.bi11-189@st.usth.edu.vn
+    affiliation: University of Science and Technology of Hanoi
+identifiers:
+  - type: url
+    value: >-
+      https://github.com/Ph1eu/Machine-Learning-And-Data-Mining-II
+    description: Final Project of ML2 - USTH
+repository-code: >-
+  https://github.com/Ph1eu/Machine-Learning-And-Data-Mining-II
+abstract: >-
+  This work proposes a recommender system for Amazon
+  products that combines two popular methods: content-based
+  filtering with TF-IDF Model and neural matrix
+  factorization (NeuMF).
+keywords:
+  - machine-learning
+  - neural-network
+  - NeuMF
+  - TF-IDF
