@@ -2,7 +2,7 @@
 
 These notebooks is Final project for machine-learning-and-data-mining-II class.
 ## Report
-- https://drive.google.com/drive/u/2/search?q=Report
+- https://drive.google.com/file/d/13tlGRI2NQWylwNWc6JwERGoW7do1bel1/view?usp=drive_link
 ## Abstracts
 The following model are used in this project
 
